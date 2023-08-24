@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klopagus
 - 👀 I’m interested in ... cyber security
 - 🌱 I’m currently learning ... SOCs
-- 💞️ I’m looking to collaborate on ... trainin materials
+- 💞️ I’m looking to collaborate on ... training materials
 - 📫 How to reach me ... 
 
 <!---
